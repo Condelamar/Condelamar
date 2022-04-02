@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Lucas Condé!
 - 👀 Estou interessado em aprender a linguagem C#, HTML, CSS e JavaScript.
-- 🌱 Estou estudando C#, HTML, CSS e JavaScript atualmente.
+- 🌱 Estou estudando C#, e Java atualmente.
 - 💞️ Quero colaborar com o desenvolvimento de aplicações.
 - 📫 Para entrar em contato comigo, me mandem um email > lucasconde3650@gmail.com
